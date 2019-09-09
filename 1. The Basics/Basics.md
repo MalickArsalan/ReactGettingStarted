@@ -76,7 +76,7 @@ Both use set of **props** and **state** as their input and output what looks lik
 
 **Note:**
 
-* Within a components state object can be cahnges, while the props object represents fixed values. 
+* Within a components state object can be cahnges, while the props object represents fixed values.
 * Props are immutable. Components can ony change thie internal state,not their properties
 
 ### JSX
